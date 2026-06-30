@@ -5,6 +5,7 @@
   <img src="github-metrics.svg">
 </div>
 
+<hr>
 <div align="center">
   <h2>Tinis Clicks</h2>
   <div>
